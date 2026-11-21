@@ -117,13 +117,13 @@ The IPC's Chapter IV (ss. 76–106) is now Chapter III (ss. 14–44). The substa
 | **s. 304** | — | **Snatching (new offence)** — up to 3 years |
 | s. 308 | s. 383 | Extortion — up to 3 years |
 | s. 309 | s. 390 | Robbery — up to 10 years |
-| s. 310 | s. 391 | Dacoity — life or up to 10 years; preparation to commit dacoity (s. 310(4)) — up to 7 years |
+| s. 310 | s. 391 | Dacoity — life or up to 10 years; preparation to commit dacoity (s. 310(4)) — RI up to 10 years (assembling for dacoity, s. 310(5) — up to 7 years) |
 | s. 311 | s. 397 | Robbery or dacoity with attempt to cause death or grievous hurt — minimum 7 years |
 | s. 314 | s. 403 | Dishonest misappropriation of property — up to 2 years |
 | s. 316 | s. 405 | Criminal breach of trust — up to 5 years (raised from 3 years under IPC s. 406) |
-| s. 318 | s. 415 | Cheating — up to 7 years |
+| s. 318 | s. 415 | Cheating — up to 3 years (s. 318(2)); up to 7 years where delivery of property is induced (s. 318(4) — IPC s. 420) |
 | s. 319 | s. 416 | Cheating by personation — up to 5 years |
-| s. 320 | s. 420 | Cheating and dishonestly inducing delivery of property — up to 7 years |
+| s. 320 | s. 421 | Dishonest or fraudulent removal or concealment of property to prevent its distribution among creditors — up to 2 years |
 | s. 324 | s. 425 | Mischief — up to 6 months |
 
 **s. 336** — forgery (IPC s. 463): up to 2 years. **s. 356** — defamation (IPC ss. 499–500): up to 2 years, or fine, or community service.
