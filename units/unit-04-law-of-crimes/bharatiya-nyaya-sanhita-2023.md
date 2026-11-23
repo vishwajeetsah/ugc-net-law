@@ -88,7 +88,8 @@ The IPC's Chapter IV (ss. 76–106) is now Chapter III (ss. 14–44). The substa
 - **s. 100** — culpable homicide (IPC s. 299); **s. 101** — murder (IPC s. 300): the four clauses of s. 300 are reproduced — intention to cause death; intention to cause bodily injury known to be likely to cause death; intention to cause bodily injury sufficient in the ordinary course of nature to cause death; knowledge that the act is so imminently dangerous that it must in all probability cause death.
 - **Exceptions to s. 101** (the five IPC s. 300 exceptions, unchanged): grave and sudden provocation; private defence; public servant acting in good faith exceeding powers; sudden fight; death with consent of the victim (above 18 years). Where an exception applies, the offence is culpable homicide not amounting to murder.
 - **s. 103** — punishment for murder (IPC s. 302): death or life imprisonment + fine.
-- **s. 104** — **new:** murder by a group of five or more persons acting in concert on grounds of race, caste or community, sex, place of birth, language or personal belief (mob lynching): death or life imprisonment + fine.
+- **s. 103(2)** — **new:** murder by a group of five or more persons acting in concert on grounds of race, caste or community, sex, place of birth, language or personal belief (mob lynching): death or life imprisonment + fine.
+- **s. 104** — punishment for murder by a person under sentence of imprisonment for life (IPC s. 303): death or life imprisonment, life meaning the remainder of natural life. The mandatory death sentence of IPC s. 303 was struck down in *Mithu v. State of Punjab* (1983).
 - **s. 105** — punishment for culpable homicide not amounting to murder (IPC s. 304): life or up to 10 years + fine (with intent); up to 10 years + fine (without intent).
 - **s. 106** — causing death by negligence (IPC s. 304A): (1) up to 5 years + fine (raised from 2 years under the IPC); (2) rash or negligent driving causing death, where the driver escapes without reporting — up to 10 years + fine. **Note:** enforcement of s. 106(2) was put on hold by the government in January 2024, before the Code came into force, pending consultation — the provision is on the statute book but its operation was deferred.
 - **s. 108** — abetment of suicide (IPC s. 306): up to 10 years + fine. **s. 109** — attempt to murder (IPC s. 307). **s. 110** — attempt to commit culpable homicide (IPC s. 308).
@@ -103,7 +104,7 @@ The IPC's Chapter IV (ss. 76–106) is now Chapter III (ss. 14–44). The substa
 
 ### 6.4 Hurt, restraint, kidnapping, trafficking
 
-- **Hurt / grievous hurt:** ss. 114–125 (IPC ss. 319–326B). **s. 124** — voluntarily causing grievous hurt by use of acid (IPC s. 326A): minimum 10 years to life + fine. **s. 125** — attempt to throw or administer acid (IPC s. 326B).
+- **Hurt / grievous hurt:** ss. 114–125 (IPC ss. 319–326B, 336–338). **s. 124** — voluntarily causing grievous hurt by use of acid (IPC ss. 326A–326B): s. 124(1) grievous hurt by acid — minimum 10 years to life + fine; s. 124(2) throwing or attempting to throw acid — 5 to 7 years + fine. **s. 125** — act endangering life or personal safety of others (IPC ss. 336–338).
 - **Wrongful restraint / confinement:** ss. 126–127 (IPC ss. 339–342).
 - **Kidnapping / abduction:** ss. 137–142 (IPC ss. 359–369). **s. 140** — kidnapping or abduction for ransom (IPC s. 364A): death or life imprisonment.
 - **s. 143** — trafficking of person (IPC s. 370); **s. 144** — exploitation of a trafficked person (IPC s. 370A).
@@ -145,7 +146,7 @@ The BNS did not arrive alone. The **Bharatiya Nagarik Suraksha Sanhita, 2023 (BN
 - [ ] General exceptions, ss. 14–44 (IPC ss. 76–106): child under 7 (s. 21), unsound mind (s. 23), private defence (ss. 34–44).
 - [ ] s. 152 replaces s. 124A — purpose/knowledge + secession, armed rebellion or sovereignty; no "disaffection".
 - [ ] Sexual offences ch. V: s. 63 rape; s. 65(2) under-12 rape — death possible; **s. 69 deceitful promise of marriage — new**.
-- [ ] Murder s. 101 / s. 103; **mob lynching s. 104 — new**; culpable homicide s. 105; negligence s. 106 (5 years; s. 106(2) hit-and-run 10 years — enforcement deferred).
+- [ ] Murder s. 101 / s. 103; **mob lynching s. 103(2) — new**; s. 104 murder by a life-convict; culpable homicide s. 105; negligence s. 106 (5 years; s. 106(2) hit-and-run 10 years — enforcement deferred).
 - [ ] **Organised crime s. 111, petty organised crime s. 112, terrorist act s. 113 — all new.**
 - [ ] Property: theft s. 303; **snatching s. 304 — new**; robbery s. 309; dacoity s. 310; cheating s. 318; criminal breach of trust s. 316 (5 years now).
 - [ ] Dropped: s. 124A sedition, s. 377, s. 497 adultery.

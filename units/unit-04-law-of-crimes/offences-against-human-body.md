@@ -1,8 +1,8 @@
 # Unit IV — Law of Crimes: Offences against the Human Body (BNS ss. 100–106)
 
-Revision note. Chapter VI of the Bharatiya Nyaya Sanhita, 2023 (BNS) opens with the offences against the human body — culpable homicide and murder (ss. 100–106) — the most heavily tested cluster in Unit IV. The BNS renumbers the IPC provisions (ss. 299–304A → ss. 100–106) but keeps the substance, including the five exceptions to murder. The one genuinely new offence in this cluster is **mob lynching, s. 104**.
+Revision note. Chapter VI of the Bharatiya Nyaya Sanhita, 2023 (BNS) opens with the offences against the human body — culpable homicide and murder (ss. 100–106) — the most heavily tested cluster in Unit IV. The BNS renumbers the IPC provisions (ss. 299–304A → ss. 100–106) but keeps the substance, including the five exceptions to murder. The one genuinely new offence in this cluster is **mob lynching, s. 103(2)**.
 
-> **Map first:** s. 100 defines culpable homicide (IPC s. 299); s. 101 defines murder (IPC s. 300) and lists the five exceptions; s. 102 is transferred malice (IPC s. 301); s. 103 punishes murder (IPC s. 302); s. 104 is the new mob-lynching provision; s. 105 punishes culpable homicide not amounting to murder (IPC s. 304); s. 106 is causing death by negligence (IPC s. 304A).
+> **Map first:** s. 100 defines culpable homicide (IPC s. 299); s. 101 defines murder (IPC s. 300) and lists the five exceptions; s. 102 is transferred malice (IPC s. 301); s. 103 punishes murder (IPC s. 302), including the new mob-lynching provision in s. 103(2); s. 104 punishes murder by a life-convict (IPC s. 303); s. 105 punishes culpable homicide not amounting to murder (IPC s. 304); s. 106 is causing death by negligence (IPC s. 304A).
 
 **PYQ hook:** the s. 300 exceptions and the culpable-homicide/murder distinction recur in Dec 2023, Aug 2024, Jun 2025 and Dec 2025 papers. *Virsa Singh* (1958) and *K.M. Nanavati* (1962) are the two cases the paper returns to most often in this cluster.
 
@@ -87,29 +87,35 @@ Culpable homicide is not murder where the person whose death is caused, being **
 
 **Exam trap:** the five exceptions reduce murder to culpable homicide not amounting to murder — they never convert a killing into *no offence at all*. That is the job of the general exceptions (Chapter III, ss. 14–44), not of s. 101.
 
-## 5. Punishments — ss. 103 and 105
+## 5. Punishments — ss. 103–105
 
 | Section | Offence | Punishment |
 |---|---|---|
-| **s. 103** | Murder (IPC s. 302) | Death or imprisonment for life + fine |
+| **s. 103(1)** | Murder (IPC s. 302) | Death or imprisonment for life + fine |
+| **s. 103(2)** — new | Murder by a group of **five or more persons acting in concert** on the ground of race, caste or community, sex, place of birth, language, personal belief or any similar ground — mob lynching (IPC had no equivalent) | Death or imprisonment for life + fine |
+| **s. 104** | Murder by a person under sentence of imprisonment for life (IPC s. 303) | Death or imprisonment for life, life meaning the **remainder of natural life** |
 | **s. 105** | Culpable homicide not amounting to murder (IPC s. 304) — act done with intention of causing death or bodily injury likely to cause death | Life imprisonment or up to 10 years + fine |
 | **s. 105** | Culpable homicide not amounting to murder — act done **without** such intention | Up to 10 years + fine |
 
 Note that s. 105 keeps the IPC s. 304 two-part structure: the first part (with intention) carries life as an option; the second part (without intention) caps at 10 years.
 
-## 6. Mob lynching — s. 104 (new)
+## 6. Mob lynching — s. 103(2) (new)
 
-**s. 104** is one of the BNS's genuinely new offences: where a **group of five or more persons acting in concert** commits murder on the ground of **race, caste or community, sex, place of birth, language or personal belief**, each member of the group is punished with **death or imprisonment for life + fine**.
+**s. 103(2)** is one of the BNS's genuinely new provisions: where a **group of five or more persons acting in concert** commits murder on the ground of **race, caste or community, sex, place of birth, language or personal belief**, each member of the group is punished with **death or imprisonment for life + fine**.
 
 Three features to remember:
 
-- **Five or more persons** acting in concert — a smaller group falls under ordinary s. 103 murder.
-- The **ground** must be one of the listed identities — race, caste or community, sex, place of birth, language or personal belief. A murder by a mob for a different motive (a property dispute, revenge) is not s. 104.
+- **Five or more persons** acting in concert — a smaller group falls under ordinary s. 103(1) murder.
+- The **ground** must be one of the listed identities — race, caste or community, sex, place of birth, language or personal belief. A murder by a mob for a different motive (a property dispute, revenge) is not s. 103(2).
 - The punishment is the same as murder — death or life — but the provision exists to fix **collective responsibility** on the group, so that no member escapes by pointing at another.
 
-**Background:** the provision responds to *Tehseen Poonawalla v. Union of India* (2018), in which the Supreme Court laid down preventive, remedial and punitive guidelines against mob lynching and directed Parliament to enact a separate law. The BNS answered with s. 104.
+**Background:** the provision responds to *Tehseen Poonawalla v. Union of India* (2018), in which the Supreme Court laid down preventive, remedial and punitive guidelines against mob lynching and directed Parliament to enact a separate law. The BNS answered with s. 103(2).
 
-## 7. Causing death by negligence — s. 106 (IPC s. 304A)
+## 7. Murder by a life-convict — s. 104 (IPC s. 303)
+
+IPC s. 303 said a life-convict who commits murder "shall be punished with death" — a **mandatory** death sentence with no alternative. In *Mithu v. State of Punjab* (1983) the Supreme Court struck it down as violative of Articles 14 and 21, and for forty years the section sat in the IPC with no effect. BNS s. 104 revives the provision in constitutional form: a person under sentence of imprisonment for life who commits murder is punished with **death or imprisonment for life, life meaning the remainder of that person's natural life**. The mandatory death sentence is not retained.
+
+## 8. Causing death by negligence — s. 106 (IPC s. 304A)
 
 | Provision | Content | Punishment |
 |---|---|---|
@@ -124,15 +130,16 @@ Two points examiners probe:
 
 Also within this cluster, for completeness: **s. 107** — abetment of suicide of a child or person of unsound mind (IPC s. 305); **s. 108** — abetment of suicide (IPC s. 306), up to 10 years + fine; **s. 109** — attempt to murder (IPC s. 307); **s. 110** — attempt to commit culpable homicide (IPC s. 308).
 
-## 8. Quick-revision checklist
+## 9. Quick-revision checklist
 
 - [ ] s. 100 = culpable homicide (IPC s. 299): intention to cause death / intention to cause injury likely to cause death / knowledge that death is likely.
 - [ ] s. 101 = murder (IPC s. 300): four clauses; clause thirdly — *Virsa Singh* (1958), sufficiency of injury is objective.
 - [ ] Five exceptions to s. 101 → culpable homicide not amounting to murder (s. 105), never no offence.
 - [ ] Exception 1 — grave and sudden provocation: *K.M. Nanavati* (1962), cooling period defeats it, objective reasonable-person test.
 - [ ] s. 102 transferred malice (IPC s. 301): intention follows the bullet.
-- [ ] s. 103 murder — death or life + fine; s. 105 — life/10 years (with intent) or 10 years (without intent).
-- [ ] **s. 104 mob lynching — new:** group of 5+, listed identity ground, death or life; *Tehseen Poonawalla* (2018) background.
+- [ ] s. 103(1) murder — death or life + fine; s. 105 — life/10 years (with intent) or 10 years (without intent).
+- [ ] **s. 103(2) mob lynching — new:** group of 5+, listed identity ground, death or life; *Tehseen Poonawalla* (2018) background.
+- [ ] s. 104 = murder by a life-convict (IPC s. 303): death or life (remainder of natural life); mandatory death struck down in *Mithu v. State of Punjab* (1983).
 - [ ] s. 106(1) negligence — up to 5 years (was 2 under IPC s. 304A); *Jacob Mathew* (2005) — gross negligence only.
 - [ ] s. 106(2) hit-and-run — up to 10 years, enforcement **deferred** (Jan 2024).
 - [ ] ss. 107–110: abetment of suicide, attempt to murder, attempt to commit culpable homicide.

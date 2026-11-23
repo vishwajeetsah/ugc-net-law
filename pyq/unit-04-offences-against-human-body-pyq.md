@@ -14,7 +14,7 @@
 (a) s. 100 — culpable homicide only
 (b) s. 102 — transferred malice, of the same description as if he had killed B
 (c) s. 106 — causing death by negligence
-(d) s. 104 — mob lynching
+(d) s. 103(2) — mob lynching
 
 **3.** In *Virsa Singh v. State of Punjab* (1958), the Supreme Court held that under clause thirdly of s. 300 IPC (now s. 101 BNS), the question whether the bodily injury inflicted was sufficient in the ordinary course of nature to cause death is:
 (a) A subjective question, judged by what the accused believed about the injury
@@ -30,7 +30,7 @@
 
 **5.** A group of six persons acting in concert lynches a man because of his caste. Under the BNS, this is punishable under:
 (a) s. 103 only — ordinary murder
-(b) s. 104 — murder by a group of five or more persons on the ground of caste, punishable with death or life imprisonment
+(b) s. 103(2) — murder by a group of five or more persons on the ground of caste, punishable with death or life imprisonment
 (c) s. 105 — culpable homicide not amounting to murder
 (d) s. 111 — organised crime
 
@@ -78,7 +78,7 @@
 
 **4. (c)** — Exception 1, grave and sudden provocation. The Court held it did not apply because the interval between the provocation and the shooting was a cooling period in which a reasonable man would have regained self-control.
 
-**5. (b)** — s. 104: a group of five or more persons acting in concert committing murder on the ground of race, caste or community, sex, place of birth, language or personal belief — death or life imprisonment + fine. The provision follows *Tehseen Poonawalla v. Union of India* (2018).
+**5. (b)** — s. 103(2): a group of five or more persons acting in concert committing murder on the ground of race, caste or community, sex, place of birth, language or personal belief — death or life imprisonment + fine. The provision follows *Tehseen Poonawalla v. Union of India* (2018).
 
 **6. (c)** — 5 years + fine. The BNS raised the maximum from 2 years under IPC s. 304A to 5 years under s. 106(1).
 
